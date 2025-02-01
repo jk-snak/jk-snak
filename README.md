@@ -4,9 +4,12 @@
 
 Me chamo Fernando, tenho 26 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVA. Sou um entusiasta da programação, sempre explorando novas tecnologias e desenvolvendo soluções criativas. Aqui você encontrará projetos, estudos e contribuições para a comunidade.
 <br>
-🤝 Aberto a colaborações e novos desafios
+<br>
+🤝 Aberto a colaborações e novos desafios.
 
 💼 LinkedIn:   <a href="https://www.linkedin.com/in/fernando-santos-b5b807303/">fernando-santos-b5b807303</a>
+<br>
+📧 Email: santos.lucasfernando.ads@gmail.com
 
 <p align="left">
     <a href="https://github.com/jk-snak?tab=stars">
