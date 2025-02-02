@@ -64,14 +64,7 @@ Me chamo Fernando, tenho 26 anos e sou natural do Rio de Janeiro. Atualmente, es
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-<br>
-<br>
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: jk-snak
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+![snake animation](https://github.com/jk-snak/your_username/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=jk-snak&repo=jk-snak&theme=react)](https://github.com/jk-snak/jk-snak)
+
