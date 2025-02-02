@@ -1,6 +1,8 @@
-# 👩🏻‍💻 FERNANDO 
+<# 👩🏻‍💻 FERNANDO 
 
-**`Desenvolvedora front-End`**
+<h1 style="text-align:center;">**`Desenvolvedora front-End`**</h1>
+
+
 
 Me chamo Fernando, tenho 26 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UVA. Sou um entusiasta da programação, sempre explorando novas tecnologias e desenvolvendo soluções criativas. Aqui você encontrará projetos, estudos e contribuições para a comunidade.
 <br>
