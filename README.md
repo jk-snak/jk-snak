@@ -66,11 +66,12 @@ Me chamo Fernando, tenho 26 anos e sou natural do Rio de Janeiro. Atualmente, es
 
 <br>
 <br>
-<div>- uses: Platane/snk@v3
+- uses: Platane/snk@v3
   with:
-   github_user_name: ${{ github.repository_owner }}
-     outputs: |
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: jk-snak
+    outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-</div>
